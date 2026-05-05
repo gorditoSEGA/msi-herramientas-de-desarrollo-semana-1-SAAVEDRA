@@ -1,5 +1,9 @@
 ALEJANDRO TOMAS SAAVEDRA
 
-Sobre mi
+## Sobre Mí
+Soy estudiante de programación, me gustan los videojuegos y comer mucho
 
-Soy estudiante de programacion, me encantan los videojuegos y comer
+## Habilidades Técnicas
+- Python
+- Git
+- Linux
